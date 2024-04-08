@@ -1,0 +1,13 @@
+jupyterlab
+jupyter notebook
+numpy
+pandas
+IPython
+matplotlib
+scipy
+scikit-learn
+torch
+torchvision
+torchaudio
+tqdm
+scikit-image
